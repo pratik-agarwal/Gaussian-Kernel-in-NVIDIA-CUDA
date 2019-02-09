@@ -1,1 +1,1 @@
-# Gaussian-Kernel-in-NVIDIA-CUDA
+# Gaussian Kernel in NVIDIA CUDA
